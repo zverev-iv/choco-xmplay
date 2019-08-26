@@ -6,3 +6,6 @@ branches:
   - master
 script:
 - choco pack xmplay\\xmplay.nuspec  
+after_script:
+- choco --key $choco-api-key --source https://push.chocolatey.org/
+- choco push
