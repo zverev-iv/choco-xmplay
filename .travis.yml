@@ -1,9 +1,8 @@
 sudo: required
 os: windows
-
+language: shell
 branches:
   only:
   - master
-
 script:
 - choco pack xmplay\xmplay.nuspec  
