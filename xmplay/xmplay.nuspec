@@ -10,7 +10,7 @@
     <title>xmplay (Install)</title>
     <authors>Un4seen Developments</authors>
     <projectUrl>https://www.un4seen.com/</projectUrl>
-    <iconUrl>http://support.xmplay.com/images/articles/icon_xmplay.jpg</iconUrl>
+    <iconUrl>https://cdn.statically.io/gh/zverev-iv/choco-xmplay/5cddd156/XMPlay-logo.png</iconUrl>
     <copyright>2003-2019 un4seen developments</copyright>
 	<requireLicenseAcceptance>false</requireLicenseAcceptance>
     <docsUrl>http://support.xmplay.com/article.php?id=43</docsUrl>
