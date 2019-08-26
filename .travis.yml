@@ -1,0 +1,9 @@
+sudo: required
+os: windows
+
+branches:
+  only:
+  - master
+
+script:
+- choco pack xmplay\xmplay.nuspec  
