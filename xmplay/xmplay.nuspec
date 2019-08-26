@@ -3,7 +3,7 @@
   <metadata>
     <!-- == PACKAGE SPECIFIC SECTION == -->
     <id>xmplay</id>
-    <version>3.8.3.4</version>
+    <version>3.8.3</version>
     <packageSourceUrl>https://github.com/zverev-iv/choco-xmplay</packageSourceUrl>
     <owners>zverev-iv</owners>
     <!-- == SOFTWARE SPECIFIC SECTION == -->
