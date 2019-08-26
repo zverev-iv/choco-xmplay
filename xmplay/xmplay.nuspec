@@ -17,7 +17,8 @@
     <bugTrackerUrl>https://www.un4seen.com/forum/?board=2.0</bugTrackerUrl>
     <tags>xmplay un4seen xm mp3</tags>
     <summary>XMPlay is an audio player</summary>
-    <description>XMPlay is an audio player, supporting the OGG / MP3 / MP2 / MP1 / WMA / AAC / MP4 / WAV / AIFF / CDA / MO3 / IT / XM / S3M / MTM / MOD / UMX audio formats, PLS / M3U / ASX / WAX / CUE playlists, and ZIP archives. A load more audio and archive file formats are also supported via plugins</description>  
+    <description>XMPlay is an audio player, supporting the OGG / MP3 / MP2 / MP1 / WMA / AAC / MP4 / WAV / AIFF / CDA / MO3 / IT / XM / S3M / MTM / MOD / UMX audio formats, PLS / M3U / ASX / WAX / CUE playlists, and ZIP archives. A load more audio and archive file formats are also supported via plugins</description> 
+	<releaseNotes>http://support.xmplay.com/article.php?id=109</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools"/>
