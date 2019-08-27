@@ -1,4 +1,5 @@
-﻿$toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
+﻿$ErrorActionPreference = 'Stop';
+$toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $url        = 'https://support.xmplay.com/files/20/xmplay383.zip'
 
 $packageArgs = @{
