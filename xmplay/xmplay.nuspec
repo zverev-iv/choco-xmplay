@@ -12,14 +12,14 @@
     <projectUrl>https://www.un4seen.com/</projectUrl>
     <iconUrl>https://cdn.statically.io/gh/zverev-iv/choco-xmplay/5cddd156/XMPlay-logo.png</iconUrl>
     <copyright>2003-2019 un4seen developments</copyright>
-	<requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>http://www.un4seen.com/forum/?topic=13017.0</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <docsUrl>http://support.xmplay.com/article.php?id=43</docsUrl>
-    <!--<mailingListUrl></mailingListUrl>-->
     <bugTrackerUrl>https://www.un4seen.com/forum/?board=2.0</bugTrackerUrl>
     <tags>xmplay un4seen xm mp3</tags>
     <summary>XMPlay is an audio player</summary>
-    <description>XMPlay is an audio player, supporting the OGG / MP3 / MP2 / MP1 / WMA / AAC / MP4 / WAV / AIFF / CDA / MO3 / IT / XM / S3M / MTM / MOD / UMX audio formats, PLS / M3U / ASX / WAX / CUE playlists, and ZIP archives. A load more audio and archive file formats are also supported via plugins</description> 
-	<releaseNotes>http://support.xmplay.com/article.php?id=109</releaseNotes>
+    <description>XMPlay is an audio player, supporting the OGG / MP3 / MP2 / MP1 / WMA / AAC / MP4 / WAV / AIFF / CDA / MO3 / IT / XM / S3M / MTM / MOD / UMX audio formats, PLS / M3U / ASX / WAX / CUE playlists, and ZIP archives. A load more audio and archive file formats are also supported via plugins</description>
+    <releaseNotes>https://support.xmplay.com/files.php?id=20</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools"/>
