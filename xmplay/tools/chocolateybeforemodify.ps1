@@ -1,1 +1,1 @@
-﻿Stop-Process -Force -ErrorAction SilentlyContinue -ProcessName xmplay 
+﻿Stop-Process -Force -ErrorAction SilentlyContinue -ProcessName xmplay
