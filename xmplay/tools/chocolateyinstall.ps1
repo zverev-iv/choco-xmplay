@@ -1,13 +1,13 @@
 ﻿$ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://support.xmplay.com/files/20/xmplay383.zip'
+$url        = 'https://support.xmplay.com/files/20/xmplay384.zip'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
   unzipLocation = $toolsDir
   url           = $url
   softwareName  = 'xmplay*'
-  checksum      = '3FF935AB8B4486AB716AFEB9080F0C0C53C5B004F7C1C446860A5D45D465E9C7'
+  checksum      = 'a3e19ec6426724667345c6e5666bd63c79abd66cc0154a6bce683b1612c574ae'
   checksumType  = 'sha256'
 }
 
