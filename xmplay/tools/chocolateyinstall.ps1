@@ -1,4 +1,3 @@
-﻿
 $ErrorActionPreference = 'Stop';
 
 $meta = Get-Content -Path "$($env:ChocolateyPackageFolder)\tools\packageArgs.csv" -Raw
@@ -7,5 +6,6 @@ $packageArgs = @{}
 
 $packageArgs["packageName"] = "$($env:ChocolateyPackageName)"
 $packageArgs["fileFullPath"] = "$(Join-Path (Split-Path -parent $MyInvocation.MyCommand.Definition) $filename)"
+
 
 Install-ChocolateyZipPackage @packageArgs
